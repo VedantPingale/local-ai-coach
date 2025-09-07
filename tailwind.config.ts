@@ -75,7 +75,7 @@ export default {
         'gradient-overlay': 'var(--gradient-overlay)',
       },
       boxShadow: {
-        'glow': 'var(--shadow-glow)',
+        'glow': '0 0 20px hsl(var(--primary) / 0.3)',
         'card': 'var(--shadow-card)',
         'accent': 'var(--shadow-accent)',
       },
